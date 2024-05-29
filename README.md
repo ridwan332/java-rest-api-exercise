@@ -118,7 +118,6 @@ For `POST` and `PUT` requests, you'll need to provide a request body in JSON for
 
 ```json
 {
-  "id": "d1415cfc-dbd9-4474-94fc-52e194e384fa",
   "borrower": "John Doe",
   "lender": "Alice Smith",
   "amount": 100.0,
